@@ -1,0 +1,2 @@
+# Checklist
+[] Download from releases
