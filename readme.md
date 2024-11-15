@@ -1,2 +1,2 @@
 # What is to do?
-Download `virus.bat from releases
+Download `virus.bat` from releases
