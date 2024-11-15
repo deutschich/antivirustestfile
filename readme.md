@@ -1,2 +1,2 @@
 # Checklist
-[] Download from releases
+[virus.bat] Download from releases
